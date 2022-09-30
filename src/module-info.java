@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author magnum
+ *
+ */
+module primeiroprograma {
+}
